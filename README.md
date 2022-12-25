@@ -6,6 +6,7 @@
 - 🥅 2022 Goals: Have my first job in IT and learn web3.
 - 🦜 I like to learn about Blender, Photoshop and Illustrator too.
 - 🪛 Projects I am currently working on:
+
 --[Marflix (Clon de Netflix)](https://github.com/JorTohme/Netflix-Clone-NetxJs)
 
 ### Connect with me:
