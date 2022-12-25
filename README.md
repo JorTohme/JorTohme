@@ -7,7 +7,7 @@
 - 🦜 I like to learn about Blender, Photoshop and Illustrator too.
 - 🪛 Projects I am currently working on:
 
---[Marflix (Clon de Netflix)](https://github.com/JorTohme/Netflix-Clone-NetxJs)
+-- [Marflix (Clon de Netflix)](https://github.com/JorTohme/Netflix-Clone-NetxJs)
 
 ### Connect with me:
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/jorgetohme/#gh-light-mode-only)
