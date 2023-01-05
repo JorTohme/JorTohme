@@ -36,8 +36,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorTohme&layout=compact&hide_border=true&theme=transparent)
 
-(On my way to change that PHP in top)
-
 
 
 <img align="left" alt="Gengar gif" width="250px" src="./img/Gengar.gif" style="paddin-right: 270px;"/>
