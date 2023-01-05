@@ -3,7 +3,7 @@
 ## I'm a Computer Science and Software Development Student!
 
 - 🌱 I'm on my third year of my career.
-- 🥅 2022 Goals: Have my first job in IT and learn web3.
+- 🥅 2023 Goals: Have my first job in IT and learn web3.
 - 🦜 I like to learn about Blender, Photoshop and Illustrator too.
 - 🪛 Projects I am currently working on:
 
