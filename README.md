@@ -29,14 +29,5 @@
 <br />
 <br />
 
-
-## GitHub Stats
-
-![JorTohme's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorTohme&show_icons=true&theme=transparent&hide=issues&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorTohme&layout=compact&hide_border=true&theme=transparent)
-
-
-
 <img align="left" alt="Gengar gif" width="250px" src="./img/Gengar.gif" style="paddin-right: 270px;"/>
 <img align="left" alt="Gastly gif" width="250px" src="./img/Gastly.gif" />
