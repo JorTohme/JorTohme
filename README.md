@@ -30,5 +30,5 @@
 <br />
 <br />
 
-<img align="left" alt="Gengar gif" width="250px" src="./img/Gengar.gif" style="paddin-right: 270px;"/>
-<img align="left" alt="Gastly gif" width="250px" src="./img/Gastly.gif" />
+<img align="left" alt="Gengar gif" width="80px" src="./img/Gengar.gif" style="paddin-right: 270px;"/>
+<img align="left" alt="Gastly gif" width="80px" src="./img/Gastly.gif" />
