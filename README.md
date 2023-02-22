@@ -5,14 +5,9 @@
 - 🌱 I'm on my third year of my career.
 - 🥅 2023 Goals: Have my first job in IT.
 - 🦜 I like to learn about Blender, Photoshop & Illustrator too.
-- 🪛 Projects I am currently working on:
-
--- [Bookreads](https://github.com/JorTohme/bookreads)
--- [Marflix (Clon de Netflix)](https://github.com/JorTohme/Netflix-Clone-NetxJs)
 
 ### Connect with me:
-[![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/jorgetohme/#gh-light-mode-only)
-[![LinkedIn](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jorgetohme/#gh-dark-mode-only)
+Talk to me in [LinkedIn](https://www.linkedin.com/in/jorgetohme/).
 
 ### Languages and Tools:
 
