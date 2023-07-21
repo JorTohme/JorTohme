@@ -1,7 +1,7 @@
 <h1 align="center">Jorge Tohmé</h1>
 <h4 align="center">SOFTWARE DEVELOPER</h4>
 
-- 🔭 I’m currently working at **totalcoin**   & fiinishing my **IT career**
+- 🔭 I’m currently working at **totalcoin** & finishing my **IT career**
 
 <h3 align="left">Connect with me:</h3>  
 <p align="center">  
